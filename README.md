@@ -9,7 +9,7 @@ Concept of modified CGAN. Deep learning network has additional Fourier term in l
 - You can use network for your own task using learned weights parameters as transfer learning in order to simplify learning process.
 
 ## Result
-- Here you can see prediction and ground truth image
+- Here you can see prediction and ground truth images
 ![alt text](https://github.com/visualIgorec/Machine-Learning-in-MRI/blob/main/picture/Снимок.PNG)
 ![alt text](https://github.com/visualIgorec/Machine-Learning-in-MRI/blob/main/picture/Снимок1.PNG)
 ![alt text](https://github.com/visualIgorec/Machine-Learning-in-MRI/blob/main/picture/Снимок2.PNG)
