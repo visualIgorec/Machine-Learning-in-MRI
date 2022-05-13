@@ -1,2 +1,4 @@
 # Machine-Learning-in-MRI
-There is ML algorith for reconstruction image in MRI scanning 
+Modified CGAN with extended loss by Fourier for MR image reconstruction.
+
+# Description
